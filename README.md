@@ -13,7 +13,7 @@ All spaces will need a dash between them.
 1. Make it ignore queries it has already done - so it can run daily
 2. Add in more info (i.e date etc)
 3. Add in better salary data
-4. Save to an existing Excel file for better usability  
+4. Save to an existing Excel file for better usability - i.e make it append as opposed to overwriting (maybe move to Pycharm) 
 5. Mine job requirements and keywords
 6. Recommend jobs
 
