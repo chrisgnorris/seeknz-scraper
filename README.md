@@ -27,4 +27,4 @@ All spaces will need a dash between them.
 | #     | Description   | Status    |
 |------------|-------------|-------------|
 | 1 | Slight issue in printing URLs - sometimes there is a random digit after the page number. No effect on use - just visual. I think it is due to the inrow printing. Probably a print('') space is the solution somwhere (https://drive.google.com/file/d/1aMOE_RYr_VqukHWltLBFX-tA8UJarHbU/view) | Not fixed |
-
+| 2 | Some duplicate jobs are listed. 26 out of 2500. These are all due to featured jobs - i.e the job is page 1 featured, but then mined again on page 5. The jobs don't get added to the CSV table until all pages have been mined so the duplications are missed. One solution is to ignore featured jobs. Another is to also look at the current Record array for a match, as well as CSV. | Not fixed |
