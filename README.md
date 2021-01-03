@@ -20,4 +20,4 @@ All spaces will need a dash between them.
 #### Bugs
 1. Slight issue in printing URLs - sometimes there is a random digit after the page number. No effect on use - just visual. I think it is due to the inrow printing. 
    Probably a print('') space is the solution somwhere
-![Print Issue](https://drive.google.com/file/d/1aMOE_RYr_VqukHWltLBFX-tA8UJarHbU/view?usp=sharing)
+![Print Issue](https://drive.google.com/file/d/1aMOE_RYr_VqukHWltLBFX-tA8UJarHbU/view)
