@@ -17,3 +17,6 @@ All spaces will need a dash between them.
 5. Mine job requirements and keywords
 6. Recommend jobs
 
+#### Bugs
+1. Slight issue in printing URLs - sometimes there is a random digit after the page number. No effect on use - just visual. I think it is due to the inrow printing. 
+   Probably a print('') space is the solution somwhere
